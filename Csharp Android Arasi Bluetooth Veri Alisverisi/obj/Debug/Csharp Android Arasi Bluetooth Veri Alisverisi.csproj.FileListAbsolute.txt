@@ -1,0 +1,9 @@
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\bin\Debug\Csharp Android Arasi Bluetooth Veri Alisverisi.exe.config
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\bin\Debug\Csharp Android Arasi Bluetooth Veri Alisverisi.exe
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\bin\Debug\Csharp Android Arasi Bluetooth Veri Alisverisi.pdb
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\obj\Debug\Csharp Android Arasi Bluetooth Veri Alisverisi.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\obj\Debug\Csharp_Android_Arasi_Bluetooth_Veri_Alisverisi.Form1.resources
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\obj\Debug\Csharp_Android_Arasi_Bluetooth_Veri_Alisverisi.Properties.Resources.resources
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\obj\Debug\Csharp Android Arasi Bluetooth Veri Alisverisi.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\obj\Debug\Csharp Android Arasi Bluetooth Veri Alisverisi.exe
+D:\visual studio 2015\Projects\Csharp Android Arasi Bluetooth Veri Alisverisi\Csharp Android Arasi Bluetooth Veri Alisverisi\obj\Debug\Csharp Android Arasi Bluetooth Veri Alisverisi.pdb
