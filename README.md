@@ -1,6 +1,6 @@
 # bluetooth_data_exchange
-Data Exchange Between C# and Android via Bluetooth
-C# ve Android Arası Bluetooth Üzerinden Veri Alışverişi
+<p>Data Exchange Between C# and Android via Bluetooth</p>
+<p>C# ve Android Arası Bluetooth Üzerinden Veri Alışverişi</p>
 
 Detaylı bilgi için <a target="_blank" href="https://www.muminkoykiran.com/blog/2016/12/c-android-arasi-bluetooth-veri-alisverisi/">kişisel blog</a>uma beklerim.
 
